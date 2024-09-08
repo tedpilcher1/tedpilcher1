@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm a software engineer at Moody's Analytics and in my free time I research AI areas including neuro-evolution and genetic algorithms.
 
+<!--
+Papers:
+- https://arxiv.org/abs/2310.14713
 <!--
 **tedpilcher1/tedpilcher1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
