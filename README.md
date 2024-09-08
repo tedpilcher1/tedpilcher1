@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a software engineer at Moody's Analytics and in my free time I research AI areas including neuro-evolution and genetic algorithms.
+I'm a software engineer at Moody's and in my free time I like to research neuro-evolution and genetic algorithms.
 
 <!--
 Papers:
